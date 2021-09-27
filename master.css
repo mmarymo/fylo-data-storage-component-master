@@ -1,0 +1,15 @@
+@import url('mobile.css') only screen and (max-width:375px);
+@import url('desktop.css') only screen and (min-width:376px);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+body{
+    font-size: 14px;
+  }
+  @font-face {
+    font-family: Raleway;
+    src: url(./Raleway/Raleway-Italic-VariableFont_wght.ttf);
+    src: url(./Raleway/Raleway-VariableFont_wght.ttf);
+  }

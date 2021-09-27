@@ -1,0 +1,205 @@
+.attribution { font-size: 11px; text-align: center; position: relative; top: 150px; color: #fff;}
+.attribution a { color: hsl(228, 45%, 44%); color: beige;}
+
+
+
+#bigback{
+  width: 1440px;
+  height: 800px;
+  background:  hsl(229, 57%, 11%);
+  position: relative;
+}
+#first{
+  padding-top: 400px;
+  background: url(./images/bg-desktop.png) center center no-repeat;
+  background-size: cover;
+  position: relative;
+  top: 401px;
+
+}
+#bigback #fylo{
+  width: 350px;
+  height: 201px;
+  background: hsl(228, 56%, 26%);
+  border-radius:10px 100px 10px 10px;
+  position: absolute;
+  top:289px;
+  left: 260px;
+}
+#logoicon{
+  width: 45.73px;
+  height: 38.99px;
+  background: url(./images/logo.svg);
+  position: absolute;
+  top:40px;
+  left: 40px;
+}
+h1{
+  font-family: Raleway;
+  font-weight: 700px;
+  color: #fff;
+  width: 76.21px;
+  height: 39.27px;
+  position: absolute;
+  top:35px;
+  left: 95px;
+  font-size: 40px;
+}
+#fylo ul{
+list-style: none;
+width: 176px;
+height: 48px;
+float: left;
+position: absolute;
+top: 113px;
+left: 41px;
+}
+#fylo ul li{
+width: 48px;
+height: 48px;
+background: hsl(229, 57%, 11%);
+float: left;
+border-radius: 5px;
+padding: 7.5%;
+}
+.upload{
+margin-left: 15px;
+}
+.folder{
+margin-left: 15px;
+}
+
+#bigback #secondsection{
+width: 540px;
+height: 201px;
+position: absolute;
+top: 289px;
+left: 640px;
+}
+
+#secondgroup{
+width: 540px;
+height: 154px;
+background:  hsl(228, 56%, 26%) ;
+position: absolute;
+left: 0px;
+top:47px;
+border-radius: 10px;
+}
+
+#storagep{
+ width: 229px;
+ height: 16px;
+ position: absolute;
+ top: 37px;
+ left: 39px;
+ color:hsl(243, 100%, 93%) ;
+ font-family: Raleway;
+ font-weight: 400px;
+
+}
+
+#storagep span{
+ font-weight: bolder;
+}
+#storageback{
+ width: 461px;
+ height: 20px;
+ background: hsl(229, 57%, 11%);
+ border-radius: 10px;
+ position: relative;
+ top:73px;
+ left: 40px;
+}
+#rectangle{
+ width: 339px;
+ height: 14px;
+border-radius: 7px;
+background-image: linear-gradient(to right, hsl(6, 100%, 80%) , hsl(335, 100%, 65%));
+position: absolute;
+top:3.5px; 
+}
+#dayere{
+width: 10px;
+height: 10px;
+background:hsl(243, 100%, 93%) ;
+border-radius: 5px;
+position: absolute;
+right: 2px;
+top:2px
+}
+#zeroaround{
+width: 461px;
+height: 20px;
+position: relative;
+top:77px;
+left: 39px;
+
+}
+#zeroaround #zero{
+width: 38px;
+height: 14px;
+font-family:  Raleway;
+font-weight: bold;
+color: hsl(243, 100%, 93%);
+
+}
+#zeroaround #thousand{
+width: 58px;
+height: 14px;
+font-family:  Raleway;
+color: hsl(243, 100%, 93%);
+font-weight: bold;
+position: absolute;
+top: 0px;
+right: 0px;
+}
+
+
+#secondsection #leftsection{
+width: 179px;
+height: 93.66px;
+position: absolute;
+top:0px;
+left: 321px;
+}
+#gbleft{
+width: 179px;
+height: 72px;
+background:#fff ;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+}
+#triangle{
+height: 22.66px;
+position: absolute;
+right: 0px;
+border-left:30px solid transparent;
+border-top:30px solid #fff;
+border-right:0px solid transparent;
+border-bottom:30px solid transparent;
+}
+#gbleft185{
+width: 67px;
+height: 40px;
+color: #0C122C;
+font-family:  Raleway;
+font-weight:bold;
+font-size: 40px;
+position: absolute;
+top:15px;
+left: 21px;
+}
+#gbleftp{
+width: 55px;
+height: 14px;
+font-family: Raleway;
+font-weight:bold;
+font-size: 12px;
+color:#0C122C;
+position: absolute;
+top:30px;
+left: 100px;
+text-transform: uppercase;
+}
